@@ -1,6 +1,9 @@
 # XSS
 XSS stands for XSS Simple Scanner
 
+## Installation
+`pip install -r requirements.txt`
+
 ## Usage
 ` python scanner.py 'https://www.site.com' `
 
