@@ -11,7 +11,7 @@ There are 2 options:
 
 ## What I'm going to add...
 I'm working for adding an option that allows you to select a list of sites to scan.
-Then I'll implement also SQLi and LFI.
+After that I'll implement also SQLi and LFI.
 
 Happy Scan!
 
