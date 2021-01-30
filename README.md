@@ -4,7 +4,7 @@ XSS stands for XSS Simple Scanner
 ## Usage
 ` python scanner.py 'https://www.site.com' `
 
-##Options
+## Options
 There are 2 options:
 1. "-c" or "--custom", use this option if you want to use a custom xss payload for the scan
 2. "-wl" or "--wordlist", use this option if you want to use a wordlist of xss payloads
