@@ -16,6 +16,8 @@ There are 2 options:
 I'm working for adding an option that allows you to select a list of sites to scan.
 After that I'll implement also SQLi and LFI.
 
+![Sample](Immagine 2021-02-15 204829.png)
+
 Happy Scan!
 
 ~Rennaarenata
