@@ -7,6 +7,8 @@ XSS stands for XSS Simple Scanner
 ## Usage
 ` python scanner.py 'https://www.site.com' `
 
+![Sample](sample.png)
+
 ## Options
 There are 2 options:
 1. "-c" or "--custom", use this option if you want to use a custom xss payload for the scan
@@ -15,8 +17,6 @@ There are 2 options:
 ## What I'm going to add...
 I'm working for adding an option that allows you to select a list of sites to scan.
 After that I'll implement also SQLi and LFI.
-
-![Sample](sample.png)
 
 Happy Scan!
 
