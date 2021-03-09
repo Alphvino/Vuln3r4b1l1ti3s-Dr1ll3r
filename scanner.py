@@ -22,12 +22,12 @@ def wlhandler(url, filename):
 
 def getforms(url):
     zuppapazzasgravata =bsp(requests.get(url).content, "html.parser")
-    return zuppapazzasgravata.find_all("form")    # COLLEZIONALI TUTTI :D
+    return zuppapazzasgravata.find_all("form") 
 
 def details(forms):
     detailsf = {}
     
-    action = forms.attrs.get("action")   # LOWER IS BETTER 'CAUSE YES    
+    action = forms.attrs.get("action") 
     method = forms.attrs.get("method", "get").lower()    
     inputs = []
 
