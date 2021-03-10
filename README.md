@@ -1,5 +1,5 @@
 # Vulnerability Dr1ll3r
-![Banner](https://ibb.co/Lp4wqPD)
+![Banner](sample.png)
 
 ## Installation
 For installation you'll need this modules:
