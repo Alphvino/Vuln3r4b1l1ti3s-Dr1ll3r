@@ -3,16 +3,16 @@
 
 ## Installation
 For installation you'll need this modules:
->Requests
->Time
->Argparse
->bs4
->random
->urllib
->pprint
->colorama
->asciistuff
->user_agent
+>< Requests
+>< Time
+>< Argparse
+>< bs4
+>< random
+>< urllib
+>< pprint
+>< colorama
+>< asciistuff
+>< user_agent
  
 Yes, quite a lot of modules but...I DON'T CARE Xd
 
