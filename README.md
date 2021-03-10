@@ -1,5 +1,5 @@
 # Vulnerability Dr1ll3r
-![Banner](sample.png)
+![Banner](samplee.png)
 The new tool for scan & exploi LFI and XSS.
 LFI to RCE included.
 
