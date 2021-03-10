@@ -1,5 +1,7 @@
 # Vulnerability Dr1ll3r
 ![Banner](sample.png)
+The new tool for scan & exploi LFI and XSS.
+LFI to RCE included.
 
 ## Installation
 For installation you'll need this modules:
@@ -45,3 +47,9 @@ After that I'll implement also SQLi. Then some other exploits or other shit :)
 Happy Scan!
 
 ~Rennaarenata
+~T0rt3ll1n0
+
+
+
+
+**Warning: this tool was made for legal purposes only, we are not responsible if, through this tool, you cause damage to your other devices.**
