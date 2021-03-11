@@ -44,8 +44,11 @@ There are 5 options:
 ## What I'm going to add...
 I'm working for adding an option that allows you to select a list of sites to scan.
 After that I'll implement also SQLi.
+
 XSS -> LFI -> RCE
+
 XSS -> RevShell
+
 RFI & in-program shell
 
 (This updates will take a loooot of time...)
