@@ -286,7 +286,6 @@ if(mode == "XSS" or mode == "xss" or mode == "Xss"):
 
         link_parser(sites=site)
         search_inputs_links()
-        scanx_links(site, custom, False, links)
         s = (Fore.LIGHTGREEN_EX + Style.BRIGHT + f"[+] Found " + Fore.MAGENTA  + Style.BRIGHT + f"{len(total_inputs)}" + Fore.LIGHTGREEN_EX + Style.BRIGHT + " links...\n")
         asay(s)
         if(len(dirs) == 0):
