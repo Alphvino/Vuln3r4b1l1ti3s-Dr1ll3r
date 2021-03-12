@@ -45,6 +45,8 @@ There are 5 options:
 I'm working for adding an option that allows you to select a list of sites to scan.
 After that I'll implement also SQLi.
 
+Unable swordlist option (site to scan wordlist)
+
 XSS -> LFI -> RCE
 
 XSS -> RevShell
