@@ -51,6 +51,8 @@ XSS -> RevShell
 
 RFI & in-program shell
 
+Open Redirect Scanner
+
 (This updates will take a loooot of time...)
 
 ~Rennaarenata
