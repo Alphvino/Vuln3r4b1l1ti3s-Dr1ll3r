@@ -45,25 +45,19 @@ There are 5 options:
 I'm working for adding an option that allows you to select a list of sites to scan.
 After that I'll implement also SQLi.
 
-XSS to LFI
+-[ ] XSS to LFI
 
-XSS to RevShell with in-program shell
+-[ ] XSS to RevShell with in-program shell
 
-LFI to RCE
+-[ ] LFI to RCE
 
-Unable swordlist option
+-[ ] In-program shell for rce
 
-In-program shell for rce
+-[ ] Improve lfi algorithm
 
-Sqli
+-[ ] Improve link parsing in xss mode
 
-Improve lfi algorithm
-
-Improve link parsing in xss mode
-
-Unable swordlist option (site to scan wordlist)
-
-RFI Scanner & exploiter
+-[ ] RFI Scanner & exploiter
 
 (This updates will take a loooot of time...)
 
