@@ -227,15 +227,17 @@ swordlist = args.swordlist
 
 
 # --------------------------------------- # Mode Check
+
+if(site == None and swordlist == None):
+    msg100 = (Fore.RED + Style.BRIGHT + f"[??] Define a target please, you can choose it from a wordlist or define a single target...")
+    asay(message=msg100)
+    exit()
+
 if(mode == None):
     ms = ("[??] Define the -m (--mode) parameter :)")
     asay(message=ms)
     exit()
 
-if(site == None and swordlist == None):
-    msg100 = (Fore.RED + Style.BRIGHT + f"[??] Define a target please, you can choose it from a wordlist or define a single target...")
-    asay(message=msg100)
-    
 # ------------------------------------ # XSS THINGS
 if(mode == "XSS" or mode == "xss" or mode == "Xss"):
     if(swordlist == None):
