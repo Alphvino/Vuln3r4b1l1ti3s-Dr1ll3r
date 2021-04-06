@@ -58,7 +58,7 @@ After that I'll implement also SQLi scanner and exploiter.
 
 - [x] Improve link parsing in xss mode
 
-- [ ] RFI Scanner & exploiter
+- [ ] Open Redirect Scanner
 
 (This updates will take a loooot of time...)
 
