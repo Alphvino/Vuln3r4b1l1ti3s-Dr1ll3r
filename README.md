@@ -5,25 +5,25 @@ LFI to RCE included.
 
 ## Installation
 For installation you'll need this modules:
-->< Requests
+-> Requests
 
-->< Time
+-> Time
 
-->< Argparse
+-> Argparse
 
-->< bs4
+-> bs4
 
-->< random
+-> Random
 
-->< urllib
+-> Urllib
 
-->< pprint
+-> pprint
 
-->< colorama
+-> colorama
 
-->< asciistuff
+-> asciistuff
 
-->< user_agent
+-> user_agent
 
 Yes, quite a lot of modules but...I DON'T CARE Xd
 
@@ -38,12 +38,12 @@ There are 5 options:
 2. "-wl" or "--wordlist", use this option if you want to use a wordlist of xss payloads.
 3. "-u" or "--site", you have to define this variable since is the actual target that the tool will scan.
 4. "-m" or "--mode", you have to define also this variable because is the scanner mode (-m xss for xss scanner and -m lfi for lfi scanner)
-5. "-ws" or "--swordlist", DON'T USE THIS OPTION, is still in development, is still in the code because I'm too lazy for delete this and all related things and...its also a leak for the coming versions!
+5. "-ws" or "--swordlist", DON'T USE THIS OPTION, is still in development, is still in the code because I'm too lazy for delete this and all related things.
 
 
 ## What I'm going to add...
 I'm working for adding an option that allows you to select a list of sites to scan.
-After that I'll implement also SQLi.
+After that I'll implement also SQLi scanner and exploiter.
 
 - [ ] XSS to LFI
 
@@ -64,7 +64,6 @@ After that I'll implement also SQLi.
 ~Rennaarenata
 
 ~T0rt3ll1n0
-
 
 
 
