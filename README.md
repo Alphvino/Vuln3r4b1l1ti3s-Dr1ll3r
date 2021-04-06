@@ -55,7 +55,7 @@ After that I'll implement also SQLi.
 
 - [ ] Improve lfi algorithm
 
-- [ ] Improve link parsing in xss mode
+- [x] Improve link parsing in xss mode
 
 - [ ] RFI Scanner & exploiter
 
