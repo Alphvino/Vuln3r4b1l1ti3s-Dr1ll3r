@@ -50,11 +50,11 @@ After that I'll implement also SQLi scanner and exploiter.
 
 - [ ] XSS to RevShell with in-program shell
 
-- [ ] LFI to RCE
+- [x] LFI to RCE
 
 - [ ] In-program shell for rce
 
-- [ ] Improve lfi algorithm
+- [x] Improve lfi algorithm
 
 - [x] Improve link parsing in xss mode
 
