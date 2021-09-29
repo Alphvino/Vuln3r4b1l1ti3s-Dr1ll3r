@@ -38,7 +38,7 @@ There are 5 options:
 1. **"-c"** or **"--custom"**, use this option if you want to use a custom xss payload for the scan.
 2. **"-wl"** or **"--wordlist"**, use this option if you want to use a wordlist of xss payloads.
 3. **"-u"** or **"--site"**, you have to define this variable since is the actual target that the tool will scan.
-4. **"-m"** or **"--mode"**, you have to define also this variable because is the scanner mode (-m xss for xss scanner and -m lfi for lfi scanner)
+4. **"-m"** or **"--mode"**, you have to define also this variable because is the scanner mode (**"-m xss"** for xss scanner and **"-m lfi"** for lfi scanner)
 5. **"-ws"** or **"--swordlist"**, DON'T USE THIS OPTION, is still in development, is still in the code because I'm too lazy for delete this and all related things.
 
 
