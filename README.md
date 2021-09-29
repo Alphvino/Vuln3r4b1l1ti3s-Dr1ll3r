@@ -1,7 +1,6 @@
 # Vulnerabilities Dr1ll3r
 ![Banner](samplee.png)
-The new tool for scan & exploi LFI and XSS.
-LFI to RCE included.
+_Note: this image is related to the older version of the tool...read all the README.md to fully understand the future of this tool_
 
 ## Installation
 For installation you'll need this modules:
