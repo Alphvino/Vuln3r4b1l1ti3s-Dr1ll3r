@@ -6,25 +6,25 @@ LFI to RCE included.
 ## Installation
 For installation you'll need this modules:
 
--> Requests
+- Requests
 
--> Time
+- Time
 
--> Argparse
+- Argparse
 
--> bs4
+- bs4
 
--> Random
+- Random
 
--> Urllib
+- Urllib
 
--> pprint
+- pprint
 
--> colorama
+- colorama
 
--> asciistuff
+- asciistuff
 
--> user_agent
+- user_agent
 
 Yes, quite a lot of modules but...I DON'T CARE Xd
 
@@ -58,9 +58,9 @@ After that I'll implement also SQLi scanner and exploiter.
 
 - [x] Improve link parsing in xss mode
 
-- [ ] Open Redirect Scanner
+- [x] Open Redirect Scanner
 
-(This updates will take a loooot of time...)
+(This updates will take a loooot of time...) <I will put the entire code when the whole project its done :)>
 
 ~Rennaarenata
 
