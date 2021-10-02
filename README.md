@@ -53,7 +53,7 @@ There are 5 options:
 
 - [x] Improve link parsing in xss mode
 
-- [x] Open Redirect Scanner
+- [/] Open Redirect Scanner
 
 (These updates will take a loooot of time...) <I will put the entire code when the whole project its done :)>
 
