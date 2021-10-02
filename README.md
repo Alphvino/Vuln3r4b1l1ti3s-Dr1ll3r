@@ -27,11 +27,6 @@ For installation you'll need these modules:
 
 Yes, quite a lot of modules but...I DON'T CARE Xd
 
-## Usage
-` python VulnDriller.py --help `
-
-With this command you can see all possible configurations and choose the best one for you!
-
 ## Options
 There are 5 options:
 1. **"-c"** or **"--custom"**, use this option if you want to use a custom xss payload for the scan.
@@ -42,7 +37,7 @@ There are 5 options:
 
 
 ## What I'm going to add...
-- [ ] Enable swordlist option
+- [ ] Input-Checking XSS Scanner
 
 - [ ] SQLi Scanner & Exploiter
 
