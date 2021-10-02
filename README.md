@@ -3,7 +3,7 @@
 _Note: this image is related to the older version of the tool...read all the README.md to fully understand the future of this tool_
 
 ## Installation
-For installation you'll need this modules:
+For installation you'll need these modules:
 
 - Requests
 
