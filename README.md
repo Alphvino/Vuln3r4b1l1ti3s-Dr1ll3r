@@ -60,7 +60,7 @@ There are 5 options:
 
 - [x] Open Redirect Scanner
 
-(This updates will take a loooot of time...) <I will put the entire code when the whole project its done :)>
+(These updates will take a loooot of time...) <I will put the entire code when the whole project its done :)>
 
 ~Rennaarenata
 
