@@ -1,0 +1,6 @@
+requests
+argparse
+bs4
+colorama
+asciistuff
+user_agent
